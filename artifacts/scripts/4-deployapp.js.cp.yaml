@@ -1,0 +1,27 @@
+default:
+    timestamp: 1642013820328
+    metadata: {}
+    asa:
+        E21:
+            creator: A6VMTD3ANJRNMBO5GVB7JMPSQLBUWZUL7BISCLEZAJGAMAYV2ST7NOQWOE
+            txId: AXJG7JUNJXSENSEY6ZXRPRHM54WQFAZXXFOPBNZHERW7HXL7IDWA
+            assetIndex: 3
+            confirmedRound: 3
+            assetDef:
+                unitName: E21
+                total: 10000000
+                decimals: 0
+                manager: WCS6TVPJRBSARHLN2326LRU5BYVJZUKI2VJ53CAWKYYHDE455ZGKANWMGM
+                reserve: A6VMTD3ANJRNMBO5GVB7JMPSQLBUWZUL7BISCLEZAJGAMAYV2ST7NOQWOE
+            deleted: false
+    ssc:
+        approval-asset-tx.py-clear.teal:
+            1642013820:
+                creator: A6VMTD3ANJRNMBO5GVB7JMPSQLBUWZUL7BISCLEZAJGAMAYV2ST7NOQWOE
+                txId: XWAX3AY7YXYIBFRI6AX2YFKIY6PWBBCB6DDIZTHYWTLTHF2BQVAQ
+                confirmedRound: 1
+                appID: 1
+                applicationAccount: WCS6TVPJRBSARHLN2326LRU5BYVJZUKI2VJ53CAWKYYHDE455ZGKANWMGM
+                timestamp: 1642013820
+                deleted: false
+    dLsig: {}
